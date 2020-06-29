@@ -39,6 +39,10 @@ code {
   color: white;
 }
 
+button {
+  margin-top: 10px;
+}
+
 .App-link {
   color: #61dafb;
 }
